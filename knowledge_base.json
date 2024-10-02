@@ -1,0 +1,36 @@
+{
+    "questions": [
+      {
+        "question": " hi",
+        "answer": "Hello"
+      },
+      {
+        "question": "What is 2 + 2?",
+        "answer": "4"
+      },
+      {
+        "question": "How are you",
+        "answer": "I am good"
+      },
+      {
+        "question": "what color is the sky",
+        "answer": "blue"
+      },
+      {
+        "question": "hey",
+        "answer": "Hey"
+      },
+      {
+        "question": "hello",
+        "answer": "Hello"
+      },
+      {
+        "question": "what is your favotite color",
+        "answer": "Blue"
+      },
+      {
+        "question": "what is my name",
+        "answer": "Myron"
+      }
+    ]
+  }
